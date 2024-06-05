@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "wimse-tokentranslation-spec"
+title: "draft-wimse-tokentranslation-spec"
 abbrev: "Translation Spec"
 category: info
 
-docname: wimse-tokentranslation-spec-latest
+docname: draft-wimse-tokentranslation-spec-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
