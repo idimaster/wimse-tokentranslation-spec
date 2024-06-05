@@ -18,8 +18,8 @@ keyword:
 venue:
   group: WIMSE
   type: Working Group
-#  mail: WG@example.com
-#  arch: https://example.com/WG
+  mail: "wimse@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/wimse/"
   github: "idimaster/wimse-tokentranslation-spec"
   latest: "https://idimaster.github.io/wimse-tokentranslation-spec/draft-wimse-tokentranslation-spec.html"
 
