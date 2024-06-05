@@ -9,15 +9,15 @@ number:
 date:
 consensus: true
 v: 3
-# area: AREA
-# workgroup: WG Working Group
+area: AREA
+workgroup: WIMSE
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - workload identity
+ - token exchange
+ - token translation
 venue:
-#  group: WG
-#  type: Working Group
+  group: WIMSE
+  type: Working Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
   github: "idimaster/wimse-tokentranslation-spec"
