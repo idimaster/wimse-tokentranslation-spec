@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "wimse-tokentranslation-spec"
+abbrev: "Translation Spec"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: wimse-tokentranslation-spec-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Dmitry Izumskiy
+    organization: Intuit
+    email: idimaster@gmail.com
 
 normative:
 
